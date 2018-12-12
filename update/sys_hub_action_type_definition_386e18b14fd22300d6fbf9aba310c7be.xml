@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get the value of an application property</description>
+        <internal_name>get_property</internal_name>
+        <label_cache>[{"name":"{{action.property}}","label":"action➛Property","type":"action","ref":""}]</label_cache>
+        <latest_snapshot>96c3b08e4f122300d6fbf9aba310c7fa</latest_snapshot>
+        <master_snapshot>fd72744e4f122300d6fbf9aba310c7ea</master_snapshot>
+        <name>Get Property</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-11 03:39:34</sys_created_on>
+        <sys_id>386e18b14fd22300d6fbf9aba310c7be</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="Needit Spoke" source="x_293060_needit_sp">ff9d9c714f922300d6fbf9aba310c7d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit Spoke">ff9d9c714f922300d6fbf9aba310c7d1</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_386e18b14fd22300d6fbf9aba310c7be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-11 23:51:32</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=386e18b14fd22300d6fbf9aba310c7be"/>
+    <sys_variable_value action="delete_multiple" query="document_key=386e18b14fd22300d6fbf9aba310c7be"/>
+</record_update>

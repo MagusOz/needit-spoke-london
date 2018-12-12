@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_block">
+    <sys_hub_flow_block action="INSERT_OR_UPDATE">
+        <label_cache/>
+        <name/>
+        <sys_class_name>sys_hub_flow_block</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 04:25:51</sys_created_on>
+        <sys_id>b492b1424fd22300d6fbf9aba310c78a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Needit Spoke" source="x_293060_needit_sp">ff9d9c714f922300d6fbf9aba310c7d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit Spoke">ff9d9c714f922300d6fbf9aba310c7d1</sys_scope>
+        <sys_update_name>sys_hub_flow_block_b492b1424fd22300d6fbf9aba310c78a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 04:25:51</sys_updated_on>
+    </sys_hub_flow_block>
+</record_update>
